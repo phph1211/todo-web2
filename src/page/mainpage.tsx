@@ -1,5 +1,5 @@
 import React from "react";
-import { ToDoList } from "../component/todolist";
+import { ToDoList } from "../component";
 
 export const MainPage = () => {
   return <ToDoList />;
